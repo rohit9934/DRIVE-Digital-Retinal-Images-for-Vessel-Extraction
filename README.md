@@ -16,8 +16,8 @@ We have done segmentation of blood vessels from their respective retinal images.
 # Get Started
 1. First Clone the github repository.
 * **For Training Purposes** First, you have to set all the paths in the files wherever necessary, in config directory and then run main_train.py
-2. **For Testing Purpose** You have to run the main_test.py file, All the results will be stored in experiments/VesselNet/checkpoint folder.
-3. To modify the model, you can first change the path in all the python files and then change segmentionmodel.py  or to add the dense layer change thr denseunet.py file.
+* **For Testing Purpose** You have to run the main_test.py file, All the results will be stored in experiments/VesselNet/checkpoint folder.
+2. To modify the model, you can first change the path in all the python files and then change segmentionmodel.py  or to add the dense layer change thr denseunet.py file.
 
 # Our Results
 ![ROC curve](https://github.com/rohit9934/DRIVE-Digital-Retinal-Images-for-Vessel-Extraction/tree/master/DRIVE/experiments/VesselNet/checkpoint/DRIVE_ROC.png)
