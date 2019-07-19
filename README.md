@@ -29,4 +29,4 @@ We have done segmentation of blood vessels from their respective retinal images.
 
 
 # Acknowledgements
-* On Team Level, We are thankful to [Sir Vipul Kumar Mishra] (https://www.linkedin.com/in/vipul-kumar-mishra-7bb43953/) for teaching and brushing important Deep learning concepts during the workshop, thank you sir. Also, we would like to thank our Mentor [Dr. Suneet Kumar Gupta](https://www.linkedin.com/in/dr-suneet-gupta-b2458153/) and Bennett University to give us this prestigious opportunity.
+* On Team Level, We are thankful to [Sir Vipul Kumar Mishra](https://www.linkedin.com/in/vipul-kumar-mishra-7bb43953/) for teaching and brushing important Deep learning concepts during the workshop, thank you sir. Also, we would like to thank our Mentor [Dr. Suneet Kumar Gupta](https://www.linkedin.com/in/dr-suneet-gupta-b2458153/) and Bennett University to give us this prestigious opportunity.
