@@ -2,7 +2,7 @@
 We have done segmentation of blood vessels from their respective retinal images. As this is a segmentation model, we have used U-net architecture for the segmentation purpose. This is a binary classification task as at each pixel, we have to classify whether that pixel is feature or not.
 
 # Dataset
- We have used [DRIVE](https://www.isi.uu.nl/Research/Databases/DRIVE/) dataset for training and testing purpose, this dataset consists of 40 images, 20 for training purpose and 20 for testing. 
+ We have used [DRIVE](https://www.isi.uu.nl/Research/Databases/DRIVE/) dataset for training and testing purpose, this dataset consists of 40 images, 20 for training purpose and 20 for testing.  
 # Working
 * We are using DenseBlock U-net, the architecture is same as U-net but only difference is we are replacing 1 convolutional layer with Dense layer.
 ## perception
@@ -24,3 +24,5 @@ We have done segmentation of blood vessels from their respective retinal images.
  
 ![Models Comparsion](https://github.com/rohit9934/DRIVE-Digital-Retinal-Images-for-Vessel-Extraction/blob/master/DRIVE/image%20(1).png)
 
+# Our Research
+ We have written a [Research Paper](https://github.com/rohit9934/DRIVE-Digital-Retinal-Images-for-Vessel-Extraction/blob/master/DRIVE/DRIVE%20(1).pdf) based on our work and as a future part we are aspiring to add more Dense layers and performing hyper-parameter tuning.
