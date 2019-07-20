@@ -2,7 +2,7 @@
 * This Project is created by the joint efforts of [Rohit Sharma](https://github.com/rohit9934/) , [Abdul Mugeesh](https://github.com/2016bcs1108) and [Kanishk Nama](https://github.com/kanishknama) . Kanishk Nama is responsible for preparing and loading the dataset, Rohit Sharma is responsible for developing the model while Abdul Mugeesh is responsible for calculating and loading the results. Rest of the work is done together. 
 
 # DRIVE - Digital Retinal Images for Vessel Extraction
-We have done segmentation of blood vessels from their respective retinal images. As this is a segmentation model, we have used U-net architecture for the segmentation purpose. This is a binary classification task as at each pixel, we have to classify whether that pixel is feature or not.
+We have done segmentation of blood vessels from their respective retinal images. As this is a segmentation problem, we have used U-net architecture for the segmentation purpose. This is a binary classification task as at each pixel, we have to classify whether that pixel is feature or not.
 
 # Dataset
  We have used [DRIVE](https://www.isi.uu.nl/Research/Databases/DRIVE/) dataset for training and testing purpose, this dataset consists of 40 images, 20 for training purpose and 20 for testing.  
